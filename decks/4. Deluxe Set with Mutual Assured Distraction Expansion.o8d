@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="ffd507ab-7cfc-47b8-92c8-1e85b5a26d7f">
+  <section name="Cards" shared="True">
+    <card qty="1" id="6b57362c-ce2d-431d-908e-3331dfe81d6c">American Autoduel Association</card>
+    <card qty="1" id="6b597c26-0a02-4ac5-94ac-08dce3fc9d6c">Anti-Nuclear Activists</card>
+    <card qty="1" id="6bce019b-a849-453c-9c4d-fe49350d1209">Antiwar Activists</card>
+    <card qty="1" id="6c513346-2f26-488d-be7a-1611f268cf94">Assassination</card>
+    <card qty="1" id="6c53fb1c-cc2b-493f-9a90-18ff16cbfeeb">Big Media</card>
+    <card qty="1" id="6c7da1f6-0e89-4ae5-bef6-67e32118226f">Boy Sprouts</card>
+    <card qty="1" id="6caab319-2119-4ac4-b6fb-a27561006ff4">Bribery</card>
+    <card qty="1" id="6cbfb232-7abb-4992-8be4-8f864c8bc00a">C.I.A.</card>
+    <card qty="1" id="6d11f834-fb5e-4628-8621-78f37f54c80c">California</card>
+    <card qty="1" id="6d48dea9-92be-434d-bb12-052599f28572">CFL-AIO</card>
+    <card qty="1" id="6d49d855-4a4a-46a3-9973-e7d78276981d">Chinese Campaign Donors</card>
+    <card qty="1" id="6d82fbee-3a83-4812-bb28-c6f2ce0a2779">Clone Arrangers</card>
+    <card qty="1" id="6dad592e-45ca-4e52-b2da-fea486aad8a2">Comic Books</card>
+    <card qty="1" id="6dcce807-6c06-4b4e-9ab4-6b5c7c5f4115">Computer Espionage</card>
+    <card qty="1" id="6e01eb26-5c84-4c88-ae6d-0e3dee82a712">Congressional Wives</card>
+    <card qty="1" id="6e2d25fb-7f4c-419e-9c70-fec1ffe0de67">Convenience Stores</card>
+    <card qty="1" id="6e39b978-d54a-44a4-b0bc-e21abf00e5a7">Copy Shops</card>
+    <card qty="1" id="6e70cd77-4696-4955-90ed-804d17df7c5d">Cycle Gangs</card>
+    <card qty="1" id="6e7d301e-96de-4b53-936e-441dfaf69311">Deep Agent</card>
+    <card qty="1" id="6e91c5a3-1c90-412e-9f6c-0ce04005e2b3">Democrats</card>
+    <card qty="1" id="6eb37da2-85b6-42ad-b41b-24741632f4a3">Eco-Guerrillas</card>
+    <card qty="1" id="6ed76200-c5d2-48d7-86ec-f88f85a9648b">Empty Vee</card>
+    <card qty="1" id="6f3a26d3-2c8c-43af-9612-76e735040540">Evil Geniuses For a Better Tomorrow</card>
+    <card qty="1" id="6f6cb7f1-8615-46f9-ab49-ad7807e92cd2">F.B.I.</card>
+    <card qty="1" id="6f6fa1d4-0d69-4e3e-814b-d4e989623def">Fast Food Chains</card>
+    <card qty="1" id="6f9d53fd-a4bf-4f89-bc67-7d8f47970625">Federal Reserve</card>
+    <card qty="1" id="6fc82744-5b13-4342-bf00-a9cf48f048c0">Feminists</card>
+    <card qty="1" id="700b154a-82ed-4321-8f23-64a7815e967b">Fiendish Fluoridators</card>
+    <card qty="1" id="709d34d9-0780-4a3f-abc5-15f230ced0db">Flat Earthers</card>
+    <card qty="1" id="70e41e1e-0ca9-469e-9b2e-416a55af0f56">Fnord Motor Company</card>
+    <card qty="1" id="71dfae37-6865-4c97-bb22-17ed1aff0fa1">Fraternal Orders</card>
+    <card qty="1" id="720fa43f-9689-4666-8e97-f02e41b578d3">Girlie Magazines</card>
+    <card qty="1" id="72242751-4bae-4f4c-bbc2-663cba2aea55">Goldfish Fanciers</card>
+    <card qty="1" id="724ee96f-a7bc-4ac5-b8ff-6eb7c0cf14a0">Gun Lobby</card>
+    <card qty="1" id="727db6e8-75ce-42f8-a453-0465735142fa">Hackers</card>
+    <card qty="1" id="72cf073e-c7ee-40f9-898d-3a7040e4460f">Health Food Stores</card>
+    <card qty="1" id="72dce0ec-1e51-4a21-8ae4-8c4602ff503c">Hollywood</card>
+    <card qty="1" id="732b7548-5655-4ebb-9b10-06abebb7ae55">I.R.S.</card>
+    <card qty="1" id="737dfcfe-9bdc-41fd-b55b-c61cb35fa5af">Intellectuals</card>
+    <card qty="1" id="73a88133-1a4a-4add-8c09-1cf3930b5bcf">Interference</card>
+    <card qty="1" id="740d3e42-e1ba-4877-bc56-a56b16073f3e">Interference (2)</card>
+    <card qty="1" id="74949abc-20b1-4637-ae16-b0c4b8636e2c">International Cocaine Smugglers</card>
+    <card qty="1" id="74daf71e-ef08-45e9-b977-6a3cceb818da">International Communist Conspiracy</card>
+    <card qty="1" id="7512aed9-a274-4e0e-9346-ab1685747c28">Junk Mail</card>
+    <card qty="1" id="760fe8f0-6d2c-45f8-b790-9cd169a8e020">KGB</card>
+    <card qty="1" id="766d1d93-24bf-4bd0-b939-84d12818e5d5">KKK</card>
+    <card qty="1" id="76b7cc5d-f06b-47c0-a2b3-336d946ae571">L-4 Society</card>
+    <card qty="1" id="77810bb2-41a6-4346-a9b6-9e6d2c18df46">Libertarians</card>
+    <card qty="1" id="77a8bc45-bdb4-4180-8c3d-fbf3f007042d">Loan Sharks</card>
+    <card qty="1" id="78188ac5-9d6d-4f7d-ab88-22b21de43ae9">Local Police Departments</card>
+    <card qty="1" id="78273ce3-544f-4d73-91de-83524af5007b">Madison Avenue</card>
+    <card qty="1" id="7830439b-b48b-46e0-9741-4a91d34878dd">Market Manipulation</card>
+    <card qty="1" id="786cfaee-22dc-4c44-bee9-7f38597d2bb4">Media Campaign</card>
+    <card qty="1" id="787ec4a5-0f3d-45b9-9be1-8259a394241f">Militia</card>
+    <card qty="1" id="78dd8ef4-331b-4a5f-a87f-6efbf8a26a7c">Moonies</card>
+    <card qty="1" id="78ffa921-7a7b-42dd-a14f-90008f60b724">Moral Minority</card>
+    <card qty="1" id="7978dc7d-f4d3-4621-b58c-f6ddb65df706">Morticians</card>
+    <card qty="1" id="798cb05b-b241-4c04-8880-6b40447f7354">Multinational Oil Companies</card>
+    <card qty="1" id="79a67591-9409-4825-b127-122acb9ad79b">Murphy's Law</card>
+    <card qty="1" id="79e6dc00-24ea-4eb8-80c3-641b6839a3b8">Nephews of God</card>
+    <card qty="1" id="7a0552b2-dab1-4d3a-8f3b-0688975e32c7">New York</card>
+    <card qty="1" id="7a2581b3-3a9b-46cd-a6c6-c9c91eea61c0">Nuclear Power Companies</card>
+    <card qty="1" id="7a831703-476d-44be-b2d2-66a4bfca0092">Orbital Mind Control Lasers</card>
+    <card qty="1" id="7a973c91-aaf2-46e0-849e-3bfd42ee2ef2">Parent Teacher Agglomeration</card>
+    <card qty="1" id="7aa727e6-978d-44a9-8010-970a1a508929">Pentagon</card>
+    <card qty="1" id="7ac35322-5945-4de9-ba20-a310c1ef8645">Phone Phreaks</card>
+    <card qty="1" id="7b504cef-e835-4466-906c-9ecc6729df6a">Post Office</card>
+    <card qty="1" id="7b8f3f40-6e93-4285-af75-89ca11b122d8">Professional Sports</card>
+    <card qty="1" id="7b96ca4d-4a2d-4013-a5f3-3c63ebd40185">Psychiatrists</card>
+    <card qty="1" id="7c22b005-00aa-4874-8641-8624a300e7d8">Punk Rockers</card>
+    <card qty="1" id="7c23ffec-f4cb-48fa-9613-07b58154aebf">Recyclers</card>
+    <card qty="1" id="7c58c3fe-62e3-4d50-b3f0-c9174f0d2451">Republicans</card>
+    <card qty="1" id="7cdfb6e5-57fa-42f6-9b20-f88e2e8efde9">Robot Sea Monsters</card>
+    <card qty="1" id="7cf9e309-d36b-4b95-a0f6-85cd13b93860">S.M.O.F.</card>
+    <card qty="1" id="7d07e04f-848d-4e5f-9430-fa92a7b537b1">Science Fiction Fans</card>
+    <card qty="1" id="7d430a8b-85b0-49af-a862-fecf7c026911">Secrets Man Was Not Meant to Know</card>
+    <card qty="1" id="7d4ddf0e-baf3-480b-891c-38afba7d60b1">Semiconscious Liberation Army</card>
+    <card qty="1" id="7d545f04-c31b-4d7f-b7f1-90e2a2bed4bf">Senate Investigating Committee</card>
+    <card qty="1" id="7d7fb479-53ef-4b43-b741-1a0a04c2c753">Slush Fund</card>
+    <card qty="1" id="7d8a119d-7b2f-48cd-bf9c-bb54a354ded6">Society for Creative Anarchism</card>
+    <card qty="1" id="7da195dc-9821-4822-b680-97d2fda8399c">South American Nazis</card>
+    <card qty="1" id="7db97432-583e-45bb-a3f3-ae94a215080c">Survivalists</card>
+    <card qty="1" id="7dbca1bd-8bcc-4cb5-94d4-3838e2a6d32c">Swiss Bank Account</card>
+    <card qty="1" id="7e07e4a6-1d05-4f1e-add3-7aec873e9584">Tabloids</card>
+    <card qty="1" id="7e0f6940-0568-4924-b679-f488c239b0a0">Texas</card>
+    <card qty="1" id="8008a220-51e6-4049-8681-fe64f7665be5">The Mafia</card>
+    <card qty="1" id="8014e23c-ffad-4ae8-bd6c-fdee22de94c2">The Men in Black</card>
+    <card qty="1" id="80866cec-a978-4afa-8236-959be6800db6">The Phone Company</card>
+    <card qty="1" id="81d4f782-5f73-4fab-bcbc-6d987f647ada">The United Nations</card>
+    <card qty="1" id="81eeb852-5408-43a8-a4f6-47ad616cce98">Tobacco &amp; Liquor Companies</card>
+    <card qty="1" id="835086cd-21b2-44c1-a4f2-350c720eaffa">Trekkies</card>
+    <card qty="1" id="83814230-d48d-4b48-a0b6-c62a83064120">Triliberal Commission</card>
+    <card qty="1" id="83bdd58e-9e8c-47fb-bc1e-a3025bff8d87">TV Preachers</card>
+    <card qty="1" id="83d297d2-7bd3-451e-99fb-5c146386551a">Underground Newspapers</card>
+    <card qty="1" id="83d66961-1943-4bcb-9e09-613244320bfb">Video Games</card>
+    <card qty="1" id="842a174c-29e6-4c87-bebe-36df3e0b1345">Whispering Campaign</card>
+    <card qty="1" id="84630b09-8542-4087-9b58-ab96c356e3ba">White Collar Crime</card>
+    <card qty="1" id="84d9c3cf-7c28-4b4e-b0f8-09f3ddbea95b">Yuppies</card>
+    <card qty="1" id="b3ee1e01-a03b-431a-8568-093d9930709f">Back From the Dead</card>
+    <card qty="1" id="b3f66b6f-a6cb-4990-b58f-02d7b0f41248">Celebrity Funeral</card>
+    <card qty="1" id="b43b57ce-6818-47c2-8589-73c18526bf57">Earmarks</card>
+    <card qty="1" id="b4f83904-0dc6-4ef9-872f-f2c2d2f003da">Entitlements</card>
+    <card qty="1" id="b57ad22d-56e6-472e-b0ac-5d36eacbc903">NWO: Bank Collapse</card>
+    <card qty="1" id="b5b680dd-d7df-4fcb-944c-9335025132ab">NWO: Death Panels</card>
+    <card qty="1" id="b5d4e6aa-800d-44e8-ab86-a2c81091cb61">NWO: Defense Cuts</card>
+    <card qty="1" id="b5d76c7f-68b6-479e-b2b9-db892945b801">NWO: Digital Currency</card>
+    <card qty="1" id="b6113db0-8148-4390-abe8-76d4261b8d88">NWO: Economic Stimulus</card>
+    <card qty="1" id="b6606d06-11ee-476c-9c5f-a74f4be9b4b8">NWO: Fanatics Unite!</card>
+    <card qty="1" id="b6da25bd-e5b5-41e5-a2fb-6173ff78a5b5">NWO: Gay Marriage</card>
+    <card qty="1" id="b6ff2d0e-4760-44b2-ab4e-7c0fd852f520">NWO: Global Instability</card>
+    <card qty="1" id="b7115110-1e11-43dd-8ef1-e542d083b0c2">NWO: Gun Control</card>
+    <card qty="1" id="b714231b-41a9-4f32-87f4-0c8c750ab89e">NWO: Health Reform</card>
+    <card qty="1" id="b735f1cf-0a4d-4f99-b081-8a0ded35f78c">NWO: Infotainment</card>
+    <card qty="1" id="b74d5281-5858-497f-bacb-b789a45dd881">NWO: Law and Order</card>
+    <card qty="1" id="b74e0829-557d-4825-94e7-3c84a265ebde">NWO: Loopholes</card>
+    <card qty="1" id="b7589840-a1b6-4e59-9bfa-1847d22b4c7c">NWO: Mutual Assured Distraction</card>
+    <card qty="1" id="b764ebd5-f2b3-406a-a79e-7f0913922bac">NWO: Peace in Our Time</card>
+    <card qty="1" id="b770201d-b338-4a74-b3dd-e04ff81266e0">NWO: Rabble-Rousers</card>
+    <card qty="1" id="b7b2350c-474c-4f38-99f9-409b8fc3eb19">NWO: Supermajority</card>
+    <card qty="1" id="b7b2a43f-4ec0-49fe-b712-f0e16fedd31f">NWO: Superpatriot Act</card>
+    <card qty="1" id="b7b34693-71b1-48d6-9001-2872ce92732b">Outbreak of Sanity</card>
+    <card qty="1" id="b7beb73d-5a38-4f7b-aea3-34eede28899f">Unconstitutional!</card>
+  </section>
+  <section name="Illuminati" shared="True">
+    <card qty="1" id="7ee13e14-d01a-48dc-8605-e99432eb0da3">The Bermuda Triangle</card>
+    <card qty="1" id="81189399-3755-493e-a745-dd59c55e8b82">The Society of Assassins</card>
+    <card qty="1" id="7fe8ea4e-1d1a-49b0-8db6-349a19e689a2">The Gnomes of Zurich</card>
+    <card qty="1" id="8022c837-b418-4cd0-987c-74f582873700">The Network</card>
+    <card qty="1" id="8157aeb1-0df5-46eb-b8fa-ed33578213b1">The UFOs</card>
+    <card qty="1" id="80fc6597-f8a5-4210-a74d-1887c63b56a1">The Servants of Cthulhu</card>
+    <card qty="1" id="7f697cb4-fdd5-4057-ae3b-12b26f2ecc3e">The Discordian Society</card>
+    <card qty="1" id="7e257f5b-248d-474f-884c-4735e4837548">The Bavarian Illuminati</card>
+  </section>
+  <section name="Discard" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>

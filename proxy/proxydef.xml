@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<templates>
+	<blocks>
+		<block type="text" id="specialTitle">
+		  <location x="50" y="30" />
+		  <text color="#FFFFFF" size="24" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="60" width="485" shrinktofit="True" />
+		</block>
+		<block type="text" id="specialText">
+		  <location x="25" y="90" />
+		  <text color="#000000" size="16" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="200" width="175" shrinktofit="True" />
+		</block>
+		<block type="text" id="groupTitle">
+		  <location x="85" y="65" />
+		  <text color="#000000" size="32" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="60" width="350" shrinktofit="True" />
+		</block>
+		<block type="text" id="groupText">
+		  <location x="65" y="110" />
+		  <text color="#000000" size="18" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="235" width="400" shrinktofit="True" />
+		</block>
+		<block type="text" id="groupPower">
+		  <location x="100" y="265" />
+		  <text color="#7E1619" size="21" />
+		  <border color="#FBF6EF" size="1" />
+		</block>
+		<block type="text" id="groupTransferrablePower">
+			<location x="150" y="265" />
+			<text color="#7E1619" size="21" />
+			<border color="#FBF6EF" size="1" />
+		</block>
+		<block type="text" id="groupResistance">
+			<location x="150" y="285" />
+			<text color="#7E1619" size="21" />
+			<border color="#FBF6EF" size="1" />
+		</block>
+		<block type="text" id="groupIncome">
+		  <location x="105" y="310" />
+		  <text color="#7E1619" size="21" />
+		  <border color="#FBF6EF" size="1" />
+		 </block>
+		 <block type="text" id="groupAlign">
+		  <location x="375" y="265" />
+		  <text color="#7E1619" size="21" />
+		  <border color="#FBF6EF" size="1" />
+		  <wordwrap height="75" width="140" shrinktofit="True" />
+		 </block>
+		<block type="text" id="illuminatiTitle">
+		  <location x="55" y="55" />
+		  <text color="#FABD14" size="36" />
+		  <border color="#000000" size="1" />
+		  <wordwrap height="60" width="485" shrinktofit="True" />
+		</block>
+		<block type="text" id="illuminatiText">
+		  <location x="75" y="175" />
+		  <text color="#FABD14" size="18" />
+		  <border color="#000000" size="7" />
+		  <wordwrap height="100" width="375" shrinktofit="True" />
+		</block>
+		<block type="text" id="illuminatiPower">
+			  <location x="35" y="310" />
+			  <text color="#FABD14" size="21" />
+			  <border color="#000000" size="1" />
+		</block>
+		<block type="text" id="illuminatiTransferrablePower">
+			  <location x="85" y="310" />
+			  <text color="#FABD14" size="21" />
+			  <border color="#000000" size="1" />
+		</block>
+		<block type="text" id="illuminatiIncome">
+			  <location x="435" y="310" />
+			  <text color="#FABD14" size="21" />
+			  <border color="#000000" size="1" />
+		</block>
+		<block type="text" id="vertTitle">
+		  <location x="20" y="45" />
+		  <text color="#000000" size="24" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="40" width="350" shrinktofit="True" />
+		</block>
+		<block type="text" id="vertText">
+		  <location x="45" y="110" />
+		  <text color="#000000" size="18" />
+		  <border color="#FFFFFF" size="1" />
+		  <wordwrap height="400" width="235" shrinktofit="True" />
+		</block>
+		<block type="text" id="vertResistance">
+			<location x="150" y="485" />
+			<text color="#7E1619" size="21" />
+			<border color="#FBF6EF" size="1" />
+		</block>
+		<block type="text" id="vertAlign">
+			<location x="225" y="450" />
+			<text color="#7E1619" size="16" />
+			<border color="#FBF6EF" size="1" />
+			<wordwrap height="75" width="110" shrinktofit="True" />
+		</block>
+		<block type="overlay" id="inLeft" src="cards/inLeft.png">
+			<location x="0" y="0" />
+		</block>
+		<block type="overlay" id="inRight" src="cards/inRight.png">
+				<location x="0" y="0" />
+		</block>
+		<block type="overlay" id="outLeft" src="cards/left.png">
+				<location x="0" y="0" />
+		</block>
+		<block type="overlay" id="outRight" src="cards/right.png">
+				<location x="0" y="0" />
+		</block>
+		<block type="overlay" id="outTop" src="cards/top.png">
+				<location x="0" y="0" />
+		</block>
+		<block type="overlay" id="outBottom" src="cards/bottom.png">
+				<location x="0" y="0" />
+		</block>
+	</blocks>
+
+	<template src="cards/groupProxy.png" default="True">
+    <matches>
+      <match name="Card Type" value="Group" />
+    </matches>
+	<overlayblocks>
+		<conditional>
+		<switch property="inArrow">
+			<case value="Left">
+				<link block="inLeft" />
+			</case>
+			<case value="Right">
+				<link block="inRight" />
+			</case>
+		</switch>
+		</conditional>
+		<conditional>
+			<if property="outTop" value="TRUE">
+				<link block="outTop" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="outRight" value="TRUE">
+				<link block="outRight" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="outBottom" value="TRUE">
+				<link block="outBottom" />
+			</if>
+		</conditional>
+		<conditional>
+			<if property="outLeft" value="TRUE">
+				<link block="outLeft" />
+			</if>
+		</conditional>
+	</overlayblocks>
+    <textblocks>
+      <link block="groupTitle"><property name="cardName" /></link>
+      <link block="groupText"><property name="Ability" /></link>
+      <link block="groupPower"><property name="Power" /></link>
+	  <link block="groupTransferrablePower"><property name="Transferrable Power" /></link>
+	  <link block="groupResistance"><property name="Resistance" /></link>
+	  <link block="groupIncome"><property name="Income" /></link>
+	  <link block="groupAlign"><property name="Alignments" /></link>
+	</textblocks>
+	</template> 
+	
+	<template src="cards/illuminatiProxy.png" >
+		<matches>
+			<match name="Card Type" value="Illuminati" />
+		</matches>
+		<textblocks>
+		  <link block="illuminatiTitle"><property name="cardName" /></link>
+		  <link block="illuminatiText"><property name="Ability" /></link>
+		  <link block="illuminatiPower"><property name="Power" /></link>
+		  <link block="illuminatiTransferrablePower"><property name="Transferrable Power" /></link>
+		  <link block="illuminatiIncome"><property name="Income" /></link>
+		</textblocks>
+	</template> 
+	
+	<template src="cards/specialProxy.png">
+		<matches>
+			<match name="Card Type" value="Special" />
+		</matches>
+		<textblocks>
+		  <link block="specialTitle"><property name="cardName" /></link>
+		  <link block="specialText"><property name="Ability" /></link>
+		</textblocks>
+		</template> 
+	<template src="cards/artifactProxy.png">
+		<matches>
+			<match name="Card Type" value="Artifact" />
+		</matches>
+		<textblocks>
+		  <link block="vertTitle"><property name="cardName" /></link>
+		  <link block="vertText"><property name="Ability" /></link>
+		  <link block="vertResistance"><property name="Resistance" /></link>
+		  <link block="vertAlign"><property name="Alignments" /></link>
+		</textblocks>
+	</template> 
+	<template src="cards/nwoYellow.png">
+		<matches>
+			<match name="NWO Color" value="Yellow" />
+		</matches>
+		<textblocks>
+		  <link block="vertTitle"><property name="cardName" /></link>
+		  <link block="vertText"><property name="Ability" /></link>
+		</textblocks>
+	</template> 
+		<template src="cards/nwoBlue.png">
+		<matches>
+			<match name="NWO Color" value="Blue" />
+		</matches>
+		<textblocks>
+		  <link block="vertTitle"><property name="cardName" /></link>
+		  <link block="vertText"><property name="Ability" /></link>
+		</textblocks>
+	</template>
+		<template src="cards/nwoRed.png">
+		<matches>
+			<match name="NWO Color" value="Red" />
+		</matches>
+		<textblocks>
+		  <link block="vertTitle"><property name="cardName" /></link>
+		  <link block="vertText"><property name="Ability" /></link>
+		</textblocks>
+	</template>
+</templates>

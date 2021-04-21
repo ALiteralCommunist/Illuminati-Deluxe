@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set
+	name="Y2K"
+	id="feb7ba39-fe0d-479c-a33e-36d7892c59e0"
+	gameId="ffd507ab-7cfc-47b8-92c8-1e85b5a26d7f"
+	version="1.0.0.0"
+	gameVersion="1.0.0.0">
+<cards>
+<card id="857c7c98-aad8-4ceb-bd99-8812bf7c4668" name="Airlines">
+<property name="cardName" value="Airlines"/>
+<property name="Ability" value="Bermuda gets +2 income if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8595c9ed-5dac-45c4-a197-a822bd0eba36" name="Alien Abductors">
+<property name="cardName" value="Alien Abductors"/>
+<property name="Ability" value="The UFOs get +2 income if they control this group."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Criminal Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="85b8c1b1-6d8a-4f27-a886-187a140d987e" name="Animal Testing Labs">
+<property name="cardName" value="Animal Testing Labs"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="85cf1263-657f-47b8-967e-12b9886bb842" name="Apathy">
+<property name="cardName" value="Apathy"/>
+<property name="Ability" value="Play this card during an attack. Except for the Illuminati themselves, no group may use its transferable power during this attack; any non-Illuminati uses of transferable power already announced do not count. Players who want to add more money to the attack, or use cards, may do so."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="85d2f5b3-0088-48a6-83c3-c79fa1faf14b" name="Arms Smugglers">
+<property name="cardName" value="Arms Smugglers"/>
+<property name="Ability" value="Cthulhu gets +2 income if it controls this group."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Violent Communist"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8648e9e3-6fb2-4464-87a4-1dc2e8caa5cb" name="Bailout">
+<property name="cardName" value="Bailout"/>
+<property name="Ability" value="Play this card at any time that it is NOT your turn. Each of your groups collects income. Exceptions: the Post Office does not pay, and the IRS does not tax."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="868dc052-ebfa-45e8-9941-8af568d5117d" name="Bar Codes">
+<property name="cardName" value="Bar Codes"/>
+<property name="Ability" value="Zurich may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Communist"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="86a5cf05-3fa2-4107-a3d0-e7f7d8036b9a" name="Big Medicine">
+<property name="cardName" value="Big Medicine"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="6"/>
+<property name="Alignments" value="Peaceful Conservative"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="87be04b9-ddab-41ba-8262-576f895ad5f9" name="Black Helicopters">
+<property name="cardName" value="Black Helicopters"/>
+<property name="Ability" value="'+2 on any attempt to neutralize another group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Communist"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="87ebbfb5-6447-4f3d-a91c-a929fae97d70" name="Cable TV">
+<property name="cardName" value="Cable TV"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Conservative"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="88260c01-6e7b-41dd-8471-486d35d7c264" name="Cattle Mutilators">
+<property name="cardName" value="Cattle Mutilators"/>
+<property name="Ability" value="The UFOs may draw one extra card per turn if they control this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Criminal Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="883cf074-074a-4f38-b26d-f4c938be5818" name="Chain Letters">
+<property name="cardName" value="Chain Letters"/>
+<property name="Ability" value="Zurich gets +2 income if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="1"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Criminal Conservative"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="893652d2-b317-4791-b7f2-1e0a97b2035a" name="Christmas">
+<property name="cardName" value="Christmas"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="5"/>
+<property name="Alignments" value="Peaceful"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="89b7af62-9c1a-4c82-b7e8-13cc8fcda480" name="Church of the SubGenius" size="illuminati">
+<property name="cardName" value="Church of the SubGenius"/>
+<property name="Ability" value="Gets 10 MB from the bank for each of its groups which is captured, neutralized, or destroyed."/>
+<property name="Power" value="6"/>
+<property name="Transferrable Power" value="6"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="9"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="4"/>
+<property name="Card Type" value="Illuminati"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+<property name="Nick" value="SubGenius"/>
+<property name="WinCon" value="Basic goal minus 1"/>
+</card>
+<card id="8a075de3-d60d-4cd0-b8db-ace09cf5cefd" name="Church of Violentology">
+<property name="cardName" value="Church of Violentology"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Violent Criminal Fanatic"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8a17d01d-5a98-4931-b879-58b492abd204" name="Coffee Shops">
+<property name="cardName" value="Coffee Shops"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Liberal"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8a627127-a243-4c45-8d67-cfb33c963873" name="Computer Dating Services">
+<property name="cardName" value="Computer Dating Services"/>
+<property name="Ability" value="The Network may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Peaceful"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8a7bdf06-9517-4330-a774-2e7acb4eca91" name="Conspiracy Theorists">
+<property name="cardName" value="Conspiracy Theorists"/>
+<property name="Ability" value="Bavaria may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Weird Fanatic"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8a861317-afe1-4e06-82f9-1c87d5eac6bc" name="Credit Card Companies">
+<property name="cardName" value="Credit Card Companies"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="4"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8ac9a4c8-adb4-4100-80ce-05c05e744392" name="Crop Circles">
+<property name="cardName" value="Crop Circles"/>
+<property name="Ability" value="Shangri-La may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value="Peaceful Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8acaee03-2074-4b22-961a-c7f30a57a2c2" name="Day Care Centers">
+<property name="cardName" value="Day Care Centers"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Peaceful"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8addd326-7acd-4c11-affc-3bfa34f2a69f" name="Defense Contractors">
+<property name="cardName" value="Defense Contractors"/>
+<property name="Ability" value=""/>
+<property name="Power" value="5"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="4"/>
+<property name="Alignments" value="Conservative Straight"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8b07bb96-6b69-43f9-9ea1-e98df590abfe" name="Dentists">
+<property name="cardName" value="Dentists"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8b21771e-dcec-4732-abdf-4b06f59d1986" name="Dolphins">
+<property name="cardName" value="Dolphins"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="1"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value="Peaceful"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8b4c475c-fb6c-4df6-ae5c-1a469fd6d527" name="Door-To-Door Salesmen">
+<property name="cardName" value="Door-To-Door Salesmen"/>
+<property name="Ability" value="The Church of the SubGenius gets +2 income if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Communist"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8badd133-a062-46d8-ab30-3e7844f69a6e" name="Drug Companies">
+<property name="cardName" value="Drug Companies"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="4"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="6"/>
+<property name="Alignments" value="Conservative"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8bc407dc-f175-4fe4-9521-e3afd7248978" name="Druids">
+<property name="cardName" value="Druids"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="1"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Conservative Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8bd7358f-d33a-4275-b721-f2c6695ae6c0" name="E.P.A.">
+<property name="cardName" value="E.P.A."/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Liberal Government"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8bf52bfa-bfc5-4f9f-aef2-be91e93f5fc3" name="El Nino">
+<property name="cardName" value="El Nino"/>
+<property name="Ability" value="'+2 on any attempt to destroy another group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Communist"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8c1b26fb-cd1c-47ad-b234-c56d40a67442" name="Elvis Impersonators">
+<property name="cardName" value="Elvis Impersonators"/>
+<property name="Ability" value="Discordia may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8c45c2f3-1321-4e63-994f-c2e708091714" name="Emergency Powers">
+<property name="cardName" value="Emergency Powers"/>
+<property name="Ability" value="Play this card at the beginning of your turn. You get no income (the Post Office must still pay), but you get TWO extra actions on this turn. Remember, no individual group except the UFOs may act more than once during one turn."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8c7e7673-16ca-4f6c-b2ba-e03b888c6f5a" name="Enormous Toy Stores">
+<property name="cardName" value="Enormous Toy Stores"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8cdbc2f1-b449-4091-8bcc-392a89673725" name="Exterminators">
+<property name="cardName" value="Exterminators"/>
+<property name="Ability" value="'+2 on any attempt to neutralize another group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Violent"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8cf7b736-3960-4f9d-a25b-5baaf919e45f" name="Family Values">
+<property name="cardName" value="Family Values"/>
+<property name="Ability" value="Play this card at any time to give all of your Straight groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Straight group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8d37a94a-b98b-4317-a6ad-fd09e88dd7ed" name="Federal Communications Commission">
+<property name="cardName" value="Federal Communications Commission"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Straight Conservative Government"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8d4cf71a-ad36-4fab-bebf-c1d22b80274d" name="Flower Power">
+<property name="cardName" value="Flower Power"/>
+<property name="Ability" value="Play this card at any time to give all of your Peaceful groups extra income equal to TWICE their normal income. Or play this card at any time to add 10 to defend any Peaceful group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8d553c18-bb9e-4b2d-91a8-102d3f052270" name="Fort Knox">
+<property name="cardName" value="Fort Knox"/>
+<property name="Ability" value="Gets 1 MB during the income phase of each player’s turn."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="8"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Government"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8da91600-ec6b-4cea-a02b-849a9bcfb2a5" name="Freaking the Mundanes">
+<property name="cardName" value="Freaking the Mundanes"/>
+<property name="Ability" value="Play this card at any time to give all of your Weird groups extra income equal to TWICE their normal income. Or play this card at any time to add 10 to defend any Weird group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8dab132b-eacc-4325-8a94-adc1aaec7264" name="Full Moon">
+<property name="cardName" value="Full Moon"/>
+<property name="Ability" value="Play this card at any time to give all of your Fanatic groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Fanatic group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8dce92fc-65fd-4af2-86ad-aec7da92b593" name="Gamers">
+<property name="cardName" value="Gamers"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Fanatic Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8e01d904-73dc-44d2-8dba-b20a218a2801" name="Gay Activists">
+<property name="cardName" value="Gay Activists"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Liberal Weird"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8e0e61c4-9075-4bda-a502-b0bc1f9181a0" name="Genetic Engineers">
+<property name="cardName" value="Genetic Engineers"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Fanatic"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8e2424ca-1889-4c27-8bf0-e19ca01a8abd" name="Green Party">
+<property name="cardName" value="Green Party"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="5"/>
+<property name="Alignments" value="Fanatic Liberal"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8e2ac040-1354-4f4b-abf0-369d4dbe5cc9" name="Gremlins">
+<property name="cardName" value="Gremlins"/>
+<property name="Ability" value="Play at the beginning of any other player's turn, before he takes any actions. That player loses one action for the turn (so, unless he plays a card of his own, he gets only one action).  "/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8e898d5a-c5a3-4c4d-971e-d62443a2931d" name="Hidden Connection">
+<property name="cardName" value="Hidden Connection"/>
+<property name="Ability" value="Play this card at any time that you acquire, or move, a group. You may place the group on a side of another card where there is no arrow. If the puppet group is moved again, the virtual arrow on the master is lost."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8ef99c50-39e2-4099-85b8-9971f13a49db" name="High Fashion">
+<property name="cardName" value="High Fashion"/>
+<property name="Ability" value="Discordia gets +2 income if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="4"/>
+<property name="Alignments" value="Peaceful Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8f560712-e17f-41d5-afd0-7c70ecf0294e" name="I Lied">
+<property name="cardName" value="I Lied"/>
+<property name="Ability" value="Play this card when you have aided an attack, before the dice are rolled, to get back all the money you contributed to the attack. When you plan to use this card, make sure other players can verify how much money you contributed, to avoid arguments."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8f68ca69-5b1e-44c9-b68c-366102e45b71" name="Kiddie TV">
+<property name="cardName" value="Kiddie TV"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="1"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Peaceful Liberal"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8fbe76d7-9b69-48f2-a1dc-e3d36ecc6bf4" name="Kudzu Planters">
+<property name="cardName" value="Kudzu Planters"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Communist Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8fc4315c-fd00-403a-a56b-18a4f14170d6" name="Las Vegas">
+<property name="cardName" value="Las Vegas"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="7"/>
+<property name="Alignments" value="Criminal"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8fce3fbe-9b19-4b4c-9f03-4bab72008e1e" name="Lawyers">
+<property name="cardName" value="Lawyers"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="4"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="6"/>
+<property name="Alignments" value="Criminal"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="8fea457c-037f-4c3e-8de5-de383083889f" name="May Day">
+<property name="cardName" value="May Day"/>
+<property name="Ability" value="Play this card at any time to give all of your Communist groups extra income equal to TWICE their normal income. Or play this card at any time to add 10 to defend any Communist group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="902c66fe-db98-4171-b314-72b85b23d966" name="Microstuff">
+<property name="cardName" value="Microstuff"/>
+<property name="Ability" value=""/>
+<property name="Power" value="6"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="8"/>
+<property name="Income" value="5"/>
+<property name="Alignments" value="Straight Conservative Criminal"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="90420954-cb1c-41a1-803a-4f2d99decd6d" name="Mob Influence">
+<property name="cardName" value="Mob Influence"/>
+<property name="Ability" value="Play this card at any time to give all of your Criminal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Communist group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="90bcb70f-ade7-438e-a872-46ff386b5e85" name="NASA">
+<property name="cardName" value="NASA"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Government"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="90d6d273-f206-4721-a768-75d7ec255008" name="Nationalization">
+<property name="cardName" value="Nationalization"/>
+<property name="Ability" value="Play this card at any time to give all of your Government groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Communist group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="90e2c38c-7169-4945-a453-4274d84abf84" name="Ninjas">
+<property name="cardName" value="Ninjas"/>
+<property name="Ability" value="Play this card at any time except during an attack to put any one uncontrolled group in the discard pile. It does not count as destroyed."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="90ea5673-1702-4441-9e21-0f5e6339de1b" name="Office Temps">
+<property name="cardName" value="Office Temps"/>
+<property name="Ability" value="Spend 10 MB from this group of your Illuminati, and get one extra action for that turn."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="910bd935-604a-4a1b-8576-287f76776428" name="Offshore Banks">
+<property name="cardName" value="Offshore Banks"/>
+<property name="Ability" value="Owner may make one extra money transfer each turn."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="4"/>
+<property name="Alignments" value="Criminal"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="913ad77f-6056-4fce-bb18-97aad219a835" name="OPEC">
+<property name="cardName" value="OPEC"/>
+<property name="Ability" value=""/>
+<property name="Power" value="5"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="8"/>
+<property name="Income" value="8"/>
+<property name="Alignments" value="Conservative"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="913ed2b1-cf7a-46f7-954d-ab5b6cfcf6c0" name="Pale People in Black">
+<property name="cardName" value="Pale People in Black"/>
+<property name="Ability" value="The Assassins get +2 income if they control this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Liberal Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="91998854-8d1a-41f7-be5e-0fbc76904acd" name="Paparazzi">
+<property name="cardName" value="Paparazzi"/>
+<property name="Ability" value="'+2 on any attempt to destroy another group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Criminal Fanatic"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="91b748b6-e6e1-4bca-9874-b96e927724e7" name="Pave the Earth!">
+<property name="cardName" value="Pave the Earth!"/>
+<property name="Ability" value="Cthulhu may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Violent Weird Fanatic"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="920413db-4c73-46d2-b7b2-63d4c95f3b3f" name="Political Correctness">
+<property name="cardName" value="Political Correctness"/>
+<property name="Ability" value="Play this card at any time to give all of your Liberal groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Liberal group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9216df1c-56fc-4c77-adec-b65179b55a5b" name="Pollsters">
+<property name="cardName" value="Pollsters"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="92341ecc-a24e-4918-a0b7-2b0ba89250f0" name="Public Art">
+<property name="cardName" value="Public Art"/>
+<property name="Ability" value="Bavaria gets +2 income if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Liberal Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="923cd2bc-faa1-4760-8431-7b13d5c44737" name="Recording Industry">
+<property name="cardName" value="Recording Industry"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="1"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Liberal"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9243ed29-157f-4128-9d86-8c29e5c62ff1" name="Red Cross">
+<property name="cardName" value="Red Cross"/>
+<property name="Ability" value="Shangri-La gets +2 income if it controls this group."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Peaceful Liberal"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9287b76f-2a47-4293-9d7d-60bfd649d211" name="Red Scare">
+<property name="cardName" value="Red Scare"/>
+<property name="Ability" value="Play this card at any time to give all of your Conservative groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Conservative group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9293178f-7154-449f-85b9-f2cc5ac9066d" name="Reorganization">
+<property name="cardName" value="Reorganization"/>
+<property name="Ability" value="Play this card at any time except during an attack. You may reorganize your groups freely."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="92be80a2-37fc-409e-bc17-11f51336cb55" name="Rioting">
+<property name="cardName" value="Rioting"/>
+<property name="Ability" value="Play this card at any time to give all of your Violent groups extra income equal to their normal income. Or play this card at any time to add 10 to defend any Violent group against attack."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9317af4f-3618-4574-9584-06aaff50620e" name="Saturday Morning Cartoons">
+<property name="cardName" value="Saturday Morning Cartoons"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Violent"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="93758db1-7d42-4c80-b612-cd1e8b4cdf76" name="Savings and Loans">
+<property name="cardName" value="Savings and Loans"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="4"/>
+<property name="Alignments" value="Criminal Straight"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="93d18124-e355-4cc4-9c24-73056b7186b1" name="Secret Service">
+<property name="cardName" value="Secret Service"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value="Straight Governement"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="93e54c86-2937-4f82-854d-c78fcb8f8c14" name="Secrets Man Was Not Meant to Know">
+<property name="cardName" value="Secrets Man Was Not Meant to Know"/>
+<property name="Ability" value="Play this card when any other special card is played, for ANY purpose. That card is immediately neutralized; it has no effect. Both cards are discarded."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="941820fa-29a8-4fab-be97-9ad569924493" name="Secrets Man Was Not Meant to Know">
+<property name="cardName" value="Secrets Man Was Not Meant to Know"/>
+<property name="Ability" value="Play this card when any other special card is played, for ANY purpose. That card is immediately neutralized; it has no effect. Both cards are discarded."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="945e064a-87ac-4ff5-b030-998f99ec4df7" name="Shangri-La" size="illuminati">
+<property name="cardName" value="Shangri-La"/>
+<property name="Ability" value="'+6 on any attempt to control Peaceful groups. +4 defense against any attack to destroy."/>
+<property name="Power" value="7"/>
+<property name="Transferrable Power" value="7"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="8"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="4"/>
+<property name="Card Type" value="Illuminati"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+<property name="Nick" value="Shangri-La"/>
+<property name="WinCon" value="Control 5 Peaceful groups"/>
+</card>
+<card id="946dfa4e-851a-44c2-b28b-cfef447d206c" name="Shock Jocks">
+<property name="cardName" value="Shock Jocks"/>
+<property name="Ability" value="The Church of the SubGenius may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Weird"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="94732a5c-4d0d-46d3-9798-a6305f349f54" name="Silicon Valley">
+<property name="cardName" value="Silicon Valley"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="5"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="94984791-67bc-4416-9c7e-a42e5f996d0e" name="Soap Operas">
+<property name="cardName" value="Soap Operas"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Liberal"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9507572f-7a38-4d7b-abeb-5837d1230551" name="Soft Drinks">
+<property name="cardName" value="Soft Drinks"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9525c1a9-a015-46d9-9e47-483b64c25640" name="Space Station">
+<property name="cardName" value="Space Station"/>
+<property name="Ability" value=""/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Government"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="95be4552-d451-4a85-9653-ae78cea95b10" name="Spammers">
+<property name="cardName" value="Spammers"/>
+<property name="Ability" value="The Network gets +2 income if it controls this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Criminal"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="95be7c81-7ec7-454b-82b4-4eb24f927cec" name="Special Persecutor">
+<property name="cardName" value="Special Persecutor"/>
+<property name="Ability" value="'+3 on any attempt to destroy another group. May attempt to destroy another Government group without penalty."/>
+<property name="Power" value="2"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Fanatic Government"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="TRUE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="95e6b22d-1200-4432-b20b-f1703cf12c57" name="State Lotteries">
+<property name="cardName" value="State Lotteries"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Government Criminal"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="95f6ebd8-e748-4756-94e4-425691cb3f97" name="Subliminals">
+<property name="cardName" value="Subliminals"/>
+<property name="Ability" value="Play this card during any attack to add 10 to the Power or Resistance of either the attacker or the defender."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="962b6a13-ad0d-4f97-bc2c-1d1f97cd2630" name="Subliminals">
+<property name="cardName" value="Subliminals"/>
+<property name="Ability" value="Play this card during any attack to add 10 to the Power or Resistance of either the attacker or the defender."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9689731e-6792-450c-936e-b7100debd9cf" name="Supreme Court">
+<property name="cardName" value="Supreme Court"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="4"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Peaceful Government Liberal"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="969e5b60-7063-4e46-8929-f0823d74aaa4" name="Telephone Psychics">
+<property name="cardName" value="Telephone Psychics"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Peaceful Criminal"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="96eda80d-90aa-4285-bc7a-cc39c3da4e27" name="Theme Parks">
+<property name="cardName" value="Theme Parks"/>
+<property name="Ability" value=""/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="2"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Straight"/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="9714c2c0-b9aa-46c2-9661-e0938bdc3233" name="Time Warp">
+<property name="cardName" value="Time Warp"/>
+<property name="Ability" value="Play this card during your turn to allow you one extra action on that turn. Remember, no individual group except the UFOs may act the turn."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="974a17fd-8414-4fd7-9ef2-66716aac6b19" name="Time Warp">
+<property name="cardName" value="Time Warp"/>
+<property name="Ability" value="Play this card during your turn to allow you one extra action on that turn. Remember, no individual group except the UFOs may act the turn."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="97839338-b6fb-4aae-b9d7-2d33ebf432cb" name="Time Warp">
+<property name="cardName" value="Time Warp"/>
+<property name="Ability" value="Play this card during your turn to allow you one extra action on that turn. Remember, no individual group except the UFOs may act the turn."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="97b8ba69-0912-460b-a94b-fe2acf1d1833" name="Universities">
+<property name="cardName" value="Universities"/>
+<property name="Ability" value=""/>
+<property name="Power" value="4"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="8"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Liberal"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="97efbdce-550e-4da3-89cb-dc7d23181de4" name="Unmasked">
+<property name="cardName" value="Unmasked"/>
+<property name="Ability" value="Play this card on your turn. Pick any one Illuminati card which is not currently in play, and substitute it for your current Illuminati. You are now the new Illuminati for all purposes. This counts as an action."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="0"/>
+<property name="Income" value="0"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Special"/>
+<property name="inArrow" value="0"/>
+<property name="outTop" value="0"/>
+<property name="outRight" value="0"/>
+<property name="outBottom" value="0"/>
+<property name="outLeft" value="0"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="97f27a98-0cb2-4e8d-a99e-96996a264edd" name="Vampires">
+<property name="cardName" value="Vampires"/>
+<property name="Ability" value="The Assassins may draw one extra card per turn if they control this group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value="Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="983cf05c-7627-46a7-8f75-29f958547e09" name="Video Stores">
+<property name="cardName" value="Video Stores"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="4"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="98502f35-2de0-44da-9512-8ac8c9f59f31" name="Virtual Pets">
+<property name="cardName" value="Virtual Pets"/>
+<property name="Ability" value="'+2 on any attempt to control another group."/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="5"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="986144cc-8d34-48b3-9608-8eddb3f2f882" name="W.I.T.C.H.">
+<property name="cardName" value="W.I.T.C.H."/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="2"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value="Fanatic Violent Weird"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="986e0e0b-132c-448b-ac58-878872f410bf" name="Wall Street">
+<property name="cardName" value="Wall Street"/>
+<property name="Ability" value=""/>
+<property name="Power" value="5"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Straight Conservative"/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="986ee299-590e-428c-988b-2b08408b0540" name="Warehouse 23">
+<property name="cardName" value="Warehouse 23"/>
+<property name="Ability" value=""/>
+<property name="Power" value="0"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="6"/>
+<property name="Income" value="5"/>
+<property name="Alignments" value="Government Weird"/>
+<property name="Control Arrows" value="0"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="987744ec-c32a-4912-9773-562a49276c5b" name="Weathermen">
+<property name="cardName" value="Weathermen"/>
+<property name="Ability" value="Bermuda may draw one extra card per turn if it controls this group."/>
+<property name="Power" value="1"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="1"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="1"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="FALSE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="FALSE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="989622af-c52b-4339-9949-e90b68b507b2" name="Web Designers">
+<property name="cardName" value="Web Designers"/>
+<property name="Ability" value="'+4 for direct control of WWW."/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="0"/>
+<property name="Resistance" value="3"/>
+<property name="Income" value="3"/>
+<property name="Alignments" value="Liberal"/>
+<property name="Control Arrows" value="2"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Left"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="FALSE"/>
+<property name="Cash" value="0"/>
+</card>
+<card id="98f11d85-cb19-48d8-b769-6a5e8e7a0773" name="WWW">
+<property name="cardName" value="WWW"/>
+<property name="Ability" value=""/>
+<property name="Power" value="3"/>
+<property name="Transferrable Power" value="3"/>
+<property name="Resistance" value="7"/>
+<property name="Income" value="2"/>
+<property name="Alignments" value=""/>
+<property name="Control Arrows" value="3"/>
+<property name="Card Type" value="Group"/>
+<property name="inArrow" value="Right"/>
+<property name="outTop" value="TRUE"/>
+<property name="outRight" value="FALSE"/>
+<property name="outBottom" value="TRUE"/>
+<property name="outLeft" value="TRUE"/>
+<property name="Cash" value="0"/>
+</card>
+</cards>
+</set>

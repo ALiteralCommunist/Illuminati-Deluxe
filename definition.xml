@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   name="Illuminati - The Game of Conspiracy Deluxe Edition" 
+   id="ffd507ab-7cfc-47b8-92c8-1e85b5a26d7f" 
+   octgnVersion="3.1.2.0" 
+   version="1.6.1.3"
+   scriptVersion="3.1.0.2"
+   markersize="20"
+   setsurl="http://www.sjgames.com"
+   gameurl="http://www.sjgames.com"
+   authors="A Literal Communist"
+   description="Illuminati - The Game of Conspiracy by Steve Jackson Games (Deluxe Edition)"
+   tags="Illuminati Conspiracy Fnord"
+   iconurl="https://i.imgur.com/9oFuf07.jpeg">
+   <scripts>
+      <script src="scripts/actions.py" />
+      <script src="scripts/constants.py" />
+      <script src="scripts/plugin.py" />
+      <script src="scripts/util.py" />
+   </scripts>
+   <events>
+      <event name="OnDeckLoaded" action="deckLoaded"/>
+      <event name="OnTurnPassed" action="OnTurnPassedEvent"/>
+   </events>
+   <proxygen definitionsrc="proxy/proxydef.xml"/>
+   <documents>
+         <document name="Quick Reference Sheet" icon="documents/rulesicon.png" src="documents/quickref.pdf" />
+         <document name="Core Rulebook" icon="documents/rulesicon.png" src="documents/corerules.pdf" />
+         <document name="Y2K Rules" icon="documents/rulesicon.png" src="documents/y2krules.pdf" />
+         <document name="Bavarian Fire Drill Rules" icon="documents/rulesicon.png" src="documents/bfdrules.pdf" />
+         <document name="Mutual Assured Distraction Rules" icon="documents/rulesicon.png" src="documents/madrules.pdf" />
+         </documents>
+   <gameModes/>
+   <globalvariables>
+        <globalvariable name="turnOrder" value="1" /> 
+        <globalvariable name="currentPlayer" value="1" /> 
+    </globalvariables>
+   <card back="Cards/GroupBack.png" front="Cards/GroupFront.png" width="100" height="68" cornerRadius="5" backCornerRadius="5">
+      <property name="cardName" type="String" hidden="True" />
+      <property name="Ability" type="String" />
+      <property name="Power" type="Integer"/>
+      <property name="Transferrable Power" type="Integer" />
+      <property name="Resistance" type="Integer" />
+      <property name="Income" type="Integer" />
+      <property name="Alignments" type="String" textKind="Tokens" />
+      <property name="Control Arrows" type="Integer" />
+      <property name="Card Type" type="String" />
+      <property name="inArrow" type="String" hidden="True" />
+      <property name="outTop" type="String" hidden="True" />
+      <property name="outRight" type="String" hidden="True" />
+      <property name="outBottom" type="String" hidden="True" />
+      <property name="outLeft" type="String" hidden="True" />
+      <property name="NWO Color" type="String" />
+      <property name="Cash" type="Integer" hidden="True" />
+      <property name="Nick" type="String" hidden="True" />
+      <property name="WinCon" type="String" hidden="True" />
+      <property name="HiddenWinCon" type="String" hidden="True" />
+      <size name="illuminati" back="Cards/IlluminatiBack.png" front="Cards/IlluminatiFront.png" width="100" height="68" />
+      <size name="vertical" back="Cards/GroupBack.png" front="Cards/GroupFront.png" width="68" height="100" />
+      <size name="Has MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" backWidth="20" backHeight="10" />
+	  <size name="1MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/fdeace82-28f3-415e-887f-9431e15a50e4.png" backWidth="20" backHeight="10" />
+      <size name="2MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/813fc7ea-562d-41fb-862e-a7056e32d513.png" backWidth="20" backHeight="10" />
+      <size name="3MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/8d8a3cb9-9867-4403-8afe-82b46c006b2d.png" backWidth="20" backHeight="10" />
+      <size name="5MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/ae99a596-d75f-4dc1-834f-e4385176fe9a.png" backWidth="20" backHeight="10" />
+      <size name="10MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/6c3bc9a2-5a1f-4074-921a-846600055ce4.png" backWidth="20" backHeight="10" />
+      <size name="20MB" width="20" height="10" back="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" front="markers/cd17ff81-5c57-40df-adf7-f09b840a4836.png" backWidth="20" backHeight="10" />
+   </card>
+   <markers>
+        <marker id="e3a018e5-e87d-48b9-b47b-ba3f15ddeb81" name="Has MB" src="markers/e3a018e5-e87d-48b9-b47b-ba3f15ddeb81.png" />
+		<marker id="fdeace82-28f3-415e-887f-9431e15a50e4" name="MB" src="markers/fdeace82-28f3-415e-887f-9431e15a50e4.png" />
+        <marker id="813fc7ea-562d-41fb-862e-a7056e32d513" name="MMB" src="markers/813fc7ea-562d-41fb-862e-a7056e32d513.png" />
+        <marker id="8d8a3cb9-9867-4403-8afe-82b46c006b2d" name="MMMB" src="markers/8d8a3cb9-9867-4403-8afe-82b46c006b2d.png" />
+        <marker id="ae99a596-d75f-4dc1-834f-e4385176fe9a" name="MMMMB" src="markers/ae99a596-d75f-4dc1-834f-e4385176fe9a.png" />
+        <marker id="6c3bc9a2-5a1f-4074-921a-846600055ce4" name="MMMMMB" src="markers/6c3bc9a2-5a1f-4074-921a-846600055ce4.png" />
+        <marker id="cd17ff81-5c57-40df-adf7-f09b840a4836" name="MMMMMMB" src="markers/cd17ff81-5c57-40df-adf7-f09b840a4836.png" />
+   </markers>
+   <gameboards src="background/nwo.png" x="-260" y="-52" width="260" height="104" />
+    <table name="Table" visibility="undefined" ordered="False" width="1280" height="825" background="background/playmat.jpg" backgroundStyle="uniform" >
+        <cardaction menu="Mark as Used or Clear" default="True" execute="used"/>
+        <cardaction menu="Rotate Right" default="False" shortcut="Right" execute="rotateRight"/>
+        <cardaction menu="Rotate Left" default="False" shortcut= "Left" execute="rotateLeft"/>
+        <cardseparator />
+        <cardaction menu="Collect Income" default="False" shortcut="Ctrl+I" execute="collectIncome" showIf="getsCash"/>
+		<cardaction menu="Check Treasury" default="False" shortcut="Ctrl+C" execute="checkTreasury" showIf="getsCash"/>
+		<cardaction menu="Transfer MB" default="False" execute="transferCash" showIf="getsCash"/>
+        <cardactions menu="Add or Remove MB">
+            <cardaction menu="Add 1 MB to Treasury" default="False" shortcut="Up" execute="cashUp" showIf="getsCash"/>
+            <cardaction menu="Add Multiple to Treasury" default="False" shortcut="Ctrl+Up" execute="cashUpX"  showIf="getsCash"/>
+            <cardaction menu="Remove 1 MB from Treasury" default="False" shortcut="Down" execute="cashDown"  showIf="getsCash"/>
+            <cardaction menu="Remove Multiple from Treasury" default="False" shortcut="Ctrl+Down" execute="cashDownX"  showIf="getsCash"/>
+        </cardactions>
+        <cardaction menu="Check My Goal Status" default="False" batchExecute="goalStatus" />
+        <cardactions menu="UFO Special Goal" showIf="isUFO">
+            <cardaction menu="Select UFO Special Victory" default="False" execute="UFOgoals" showIf="isUFO" />
+            <cardaction menu="Reveal UFO Special Victory" default="False" execute="UFOreveal" showIf="isUFO" />
+        </cardactions>
+        <cardaction menu="Reveal Total MB" default="False" batchExecute="gnomeReveal" showIf="isGnome" />
+        <cardseparator />
+		<cardactions menu="Highlight">
+            <cardaction menu="Red" default="False" shortcut="F1" execute="red" />
+            <cardaction menu="Orange" default="False" shortcut="F2" execute="orange" />
+            <cardaction menu="Yellow" default="False" shortcut="F3" execute="yellow" />
+            <cardaction menu="Green" default="False" shortcut="F4" execute="green" />
+            <cardaction menu="Blue" default="False" shortcut="F5" execute="blue" />
+            <cardaction menu="Purple" default="False" shortcut="F6" execute="purple" />
+            <cardaction menu="White" default="False" shortcut="F7" execute="white" />
+            <cardaction menu="Clear Highlight" default="False" shortcut="F8" execute="clear" />
+        </cardactions>
+        <cardseparator />
+        <cardaction menu="Flip Card" default="False" execute="flipCard"/>
+		<cardaction menu="Discard" default="False" shortcut="DEL" execute="discard"/>
+<!-- Group Action List Goes Here -->
+		<groupaction menu="Draw a card" default="False" shortcut="Ctrl+D" execute="drawShared" />
+		<groupaction menu="Transfer MB" default="False" execute="transferCash" />
+        <groupaction menu="Clear Targets" default="False" shortcut="Ctrl+X" execute="clearTargets" />
+        <groupseparator />
+		<groupaction menu="View All Illuminati Goals" default="False" execute="checkIlluminatiGoals" />
+        <groupseparator />
+		<groupactions menu="Random">
+            <groupaction menu="Roll two dice" default="False" shortcut="Ctrl+R" execute="rolldice" />
+            <groupaction menu="Roll single die" default="False" execute="rollsingle" />
+            <groupaction menu="Flip a coin" default="False" execute="flip" />
+        </groupactions>
+        <!--groupactions menu="Saving Tools">
+            <groupaction menu="Save Game..." default="False" execute="saveTable" />
+            <groupaction menu="Load Game..." default="False" execute="loadTable" />
+            <groupaction menu="Autosave Mode On..." default="False" execute="autosaveOn" />
+            <groupaction menu="Autosave Mode Off..." default="False" execute="autosaveOff" />
+        </groupactions-->
+   </table>
+   <player summary="H: {#Hand} | Spent MB: {#MB}">
+      <counter name="MB" default="0" icon="symbols/mb.png" />
+      <counter name="HandSize" default="0" reset="True" icon="symbols/hand.png" />
+      <group name="Hand" visibility="me" ordered="False" icon="symbols/hand.png" viewState="expanded">
+      <cardaction menu="Discard" default="False" shortcut="DEL" execute="discard"/>
+      </group>
+      <group name="Special Victory" visibility="me" ordered="True" icon="symbols/victory.png" />
+   </player>
+   <shared>
+      <group name="Deck" visibility="none" icon="symbols/deck.png" collapsed="False">
+         <groupaction menu="Shuffle" shortcut="CTRL+S" execute="shuffle"/>
+         <groupaction menu="Draw a card" default="True" execute="draw"/>
+         <groupaction menu="Roll dice" shortcut="CTRL+R" execute="rolldice"/>
+         </group>
+      <group name="Illuminati Cards" visibility="none" icon="symbols/deck.png" collapsed="False">
+         <groupaction menu="Shuffle" execute="shuffle"/>
+      </group>
+      <group name="Discard" visibility="all" icon="symbols/discard.png" collapsed="False">
+      </group>
+      <group name="Setup" visibility="all" icon="symbols/deck.png" collapsed="True">
+      </group>
+   </shared>
+   <sharedDeck>
+      <section name="Cards" group="Deck"/>
+      <section name="Illuminati" group="Illuminati Cards"/>
+      <section name="Discard" group="Discard"/>
+      <section name="Setup" group="Setup"/>
+   </sharedDeck>
+</game>
